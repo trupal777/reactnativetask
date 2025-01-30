@@ -1,0 +1,8 @@
+# ninja log v5
+3	37	0	C:/kashyap/React-native/techrudite-assignment/techeruditeAssignment/android/app/.cxx/Debug/4m60m2u3/x86/CMakeFiles/cmake.verify_globs	45e13c557abe6a3
+1	3752	7515880881801674	CMakeFiles/appmodules.dir/4f7e523d7fe0d8120cee8e99deb6d47d/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	2ae326fb2f21deb
+6	4217	7515880886449179	CMakeFiles/appmodules.dir/OnLoad.cpp.o	33117c0901cf9fe7
+4217	4450	7515880888859478	C:/kashyap/React-native/techrudite-assignment/techeruditeAssignment/android/app/build/intermediates/cxx/Debug/4m60m2u3/obj/x86/libappmodules.so	a2231732cd7450db
+5	37	0	C:/kashyap/React-native/techrudite-assignment/techeruditeAssignment/android/app/.cxx/Debug/4m60m2u3/x86/CMakeFiles/cmake.verify_globs	45e13c557abe6a3
+3	28	0	C:/kashyap/React-native/techrudite-assignment/techeruditeAssignment/android/app/.cxx/Debug/4m60m2u3/x86/CMakeFiles/cmake.verify_globs	45e13c557abe6a3
+3	29	0	C:/kashyap/React-native/techrudite-assignment/techeruditeAssignment/android/app/.cxx/Debug/4m60m2u3/x86/CMakeFiles/cmake.verify_globs	45e13c557abe6a3
